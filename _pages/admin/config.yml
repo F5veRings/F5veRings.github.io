@@ -1,6 +1,6 @@
 backend:
   name: github
-  branch: live # Branch to update (optional; defaults to master)
+  branch: master # Branch to update (optional; defaults to master)
   repo: f5verings/f5verings.github.io
 publish_mode: editorial_workflow
 media_folder: "assets/img/uploads"
