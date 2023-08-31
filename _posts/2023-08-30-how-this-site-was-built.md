@@ -29,14 +29,14 @@ We'll be working with ``decaporg/decap-cms``. [README](https://github.com/decapo
 Setup is really easy if you're on Netlify. We're hosting it on Github Pages, so we'll need to create our own OAuth server for it. I made my own and tested out several of the ones provided in their documentation to no avail, except for one that runs on Cloudflare Workers. The best part-- it's also free. Score.
 
 1. In the root folder, create an ``admin`` folder. We'll add two files there:
-```
+```markdown
 admin
  ├ index.html
  └ config.yml
 
 ```
 ``index.html``
-```
+```markdown
 ---
 layout: default
 title: Admin
@@ -64,7 +64,7 @@ media_folder: "assets/uploads"
 </html>
 ```
 ``config.yml``
-```
+```markdown
 backend:
   name: github
   branch: master # Branch to update (optional; defaults to master)
