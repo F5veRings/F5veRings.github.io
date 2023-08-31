@@ -7,12 +7,3 @@ services:
       - 8080:8080
     volumes:
       - .:/srv/jekyll
-  cms-backend:
-    image: ${CMS_BACKEND_IMAGE}
-    restart: unless-stopped
-    environment:
-      - OAUTH_GITHUB_CLIENT_SECRET=${OAUTH_GITHUB_CLIENT_SECRET}
-      - OAUTH_GITHUB_CLIENT_ID=${OAUTH_GITHUB_CLIENT_ID}
-      - ALWATR_DEBUG=${CMS_BACKEND_DEBUG-}
-    env_file:
-      - .env
