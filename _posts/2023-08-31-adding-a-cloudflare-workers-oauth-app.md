@@ -7,6 +7,7 @@ description: If at first you don't succeed.
 categories: code, Jekyll, Cloudflare Workers, CMS
 giscus_comments: "true"
 related_posts: "false"
+tags: jekyll blog
 ---
 Hi all,
 
