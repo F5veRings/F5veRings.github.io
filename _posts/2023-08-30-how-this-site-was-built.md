@@ -15,7 +15,7 @@ toc:
 
 Hi all! I want to share with you how I built this blog.
 Most of the features in this site I borrowed from [alshedivat/al-folio](https://github.com/alshedivat/al-folio) ``al-folio``. In order to edit my posts I am currently using an open-source app called [Decap CMS](https://github.com/decaporg/decap-cms). In order to edit posts online, you need to validate against Github's OAuth, but there's no safe way to do that from a static site directly. Luckily, you can setup your own [Decap CMS-compatible Cloudflare Worker](https://github.com/sveltia/sveltia-cms-auth) to run the authentication for you at no charge.
-I am currently running on Windows; if you want a Linux version of the tutorial, feel free to request it! :)
+I am currently running on Windows; if you want a Linux version of the tutorial, feel free to request it!
 This tutorial assumes you're familiar with ``docker-compose``.
 
 ### One, Two, Skip a Few...
