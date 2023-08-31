@@ -3,21 +3,10 @@ backend:
   branch: master # Branch to update (optional; defaults to master)
   repo: f5verings/f5verings.github.io
   base_url: https://sveltia-cms-auth.munguolm.workers.dev # Path to ext auth provider
-#
-#backend:
-# name: github
-# branch: main
-# repo: njfamirm/amazing-oauth
-# base_url: https://auth.amazing-oauth.name/
-
-
-
 
 publish_mode: editorial_workflow
 media_folder: "assets/img/uploads"
 public_folder: static/media
-
-
 
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
