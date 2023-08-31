@@ -33,9 +33,10 @@ Setup is really easy if you're on Netlify. We're hosting it on Github Pages, so 
 admin
  ├ index.html
  └ config.yml
-
 ```
+
 ``index.html``
+
 ```markdown
 ---
 layout: default
@@ -63,7 +64,9 @@ media_folder: "assets/uploads"
 </body>
 </html>
 ```
+
 ``config.yml``
+
 ```markdown
 backend:
   name: github
