@@ -9,7 +9,7 @@ related_posts: "true"
 tags: jekyll blog
 categories: personal-site
 toc:
-  beginning: true
+  sidebar: "left"
 ---
 ## Creating your own hosted website and blog, for free!
 
