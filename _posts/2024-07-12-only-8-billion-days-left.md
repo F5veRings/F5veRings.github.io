@@ -54,11 +54,11 @@ But anyway, there's this guy who wins an audience with him, a dingleberry flushe
 
 So he says to Brutus "Here's a man fit to be a King!" He makes Brutus his second in command, makes him go everywhere with him, gives him proper clothes and everything, basically treats him like his best friend. Now, in Roman culture, this is a Bad Thing-- Caesar invented the Roman Handshake for a reason--to pull people in a little Too Close. But Brutus knew nothing of royal customs-- he was just a jokester, and foreshadowing is bad for jokes.
 
-So anyway, it's the Caesars' birthday, held at his summer mansion, and Brutus is the guest of honor. He arrives at sundown, duly on time. Everyone's already passed out drunk and on the floor. Except Caesar, who stands at his balcony, looking over the dregs of the reverie.
+So anyway, it's the Caesars' birthday, held at his summer mansion, and Brutus is the guest of honor. He arrives at sundown, duly on time. Everyone's already passed out drunk and on the floor. Except Caesar, who lords over the dregs of the reverie from his penthouse balcony.
 
 As Brutus walks up the foyer, Caesar calls out to him in Latin: "Ah, Bruto! Hablando del rey de Roma!" 
 
-He then, basically, slices his own throat and proceeds to take a quick trip down three floors headfirst over the balcony. 
+He then, basically, slices his own throat and proceeds to take a quick trip down three floors headfirst. 
 
 
 
