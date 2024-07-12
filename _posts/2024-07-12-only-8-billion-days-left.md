@@ -46,7 +46,7 @@ That actually reminds me of Julius Caesar's last joke. In honor of the end times
 
 
 
-So, Julius Caesar, contrary to all popular belief, was the emperor because he was the most ruthless Truth or Dare player. Anything you asked him to do, he'd do-- that's actually how he started going around naked, pretending he was wearing fancy robes.
+So, Julius Caesar, contrary to all popular belief, was the emperor because he was the most ruthless Truth or Dare player. Anything you asked him to do, he'd do-- that's actually how he started going around naked: someone dared him to eschew clothes forever.
 
 He won literally everyone over with his fearless bravado, always doing the People's will no matter the cost.
 
