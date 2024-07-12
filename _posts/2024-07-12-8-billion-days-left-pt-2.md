@@ -24,7 +24,7 @@ I, being a man of discernment, just picked a berry, ate it, and then said "no th
 
 In his worldview, there were two kinds of people-- Trashes, and Shits. Trash goes in the trash bin, he'd say. 
 Then, in latin, he'd add "Y las caquitas solitas se juntan" (Latin for "but you can be my friend instead") and go for a Christian hug (aka el abrazo del chucho, aka The Dog Lean).
-Great man. If only his breath wasn't so bad... then again, he didn't like kissing.
+Great man. If only his breath wasn't so bad... then again, he never asked for a kiss.
 
 And that's a twofer today.
 
