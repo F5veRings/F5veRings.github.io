@@ -17,7 +17,7 @@ His friends called him The Dog (In Latin, Chucho, legal name was Jesus) on accou
 
 His running gag was that he would invite everyone over for barbecue and not actually make any food for other people-- just a couple loaves of bread and fish for himself. And so if people Not In The Loop went up to him to complain about the food, he'd point at the latrine, just past the berry bushes and buckwheat and say in latin:
 
--"Come caca!" (i.e. there's food and water at the bottom of that there well).
+-"Que no hay comida? Come caca!" (i.e. there's food and water at the bottom of that there well).
 
 The gullible ones would really go into the latrine-- such was their eagerness to be loved by Jesus. (That's where the term "shit-eating grin" comes from, actually).
 I, being a man of discernment, just picked a berry, ate it, and then said "no thanks, I'm full".
