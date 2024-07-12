@@ -3,7 +3,7 @@ layout: post
 gisqus_comments: "true"
 title: ONLY 8 BILLION DAYS LEFT
 date: 2024-07-12T09:48:00.000Z
-description: Meditations on my friend, The King
+description: Who killed Caesar? We all did!
 tags: History
 categories: Blog
 related_posts: "false"
