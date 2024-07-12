@@ -20,7 +20,7 @@ I know what you're thinking. You want to say "Martin, there's no rush. I'm a lea
 
 Or you might \*also\* be a heretic, and go as far as to say "that's not an Arrow at all! It actually stays perfectly still, and it is Us that rotate/fly around it etc".
 
-You've been lied to about all that. That Apollo's Arrows are infinite or last forever-- that's a lie of comfort made to take each one of them for granted. In real life, do you ever look at an arrow headed your way and say "Egad! I'll be late for dinner!"?!
+You've been lied to about all that. That Apollo's Arrows are infinite or last forever-- that's a lie of comfort made to take each one of them for granted. In real life, do you ever look at an arrow headed your way and say "Egad! I wonder what's for dinner!"?!
 
 No. If you're lucky, you might have time to utter a quick blessing ("Dear, dear, dear, God..."). Usually, though, it's a one word ejaculation-- religious, scatological or sexual in nature. Our life's preoccupations boiled down to four letters or less. 
 
