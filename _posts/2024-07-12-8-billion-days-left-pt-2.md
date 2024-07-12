@@ -23,7 +23,7 @@ Most actually did go into the latrine-- such was their eagerness to be part of t
 I, being a man of discernment, just picked a berry, ate it, and then said "no thanks, I'm full".
 
 In his worldview, there were two kinds of people-- Trash People, and Shit People. Trash goes in the trash bin, he'd say. 
-Then in latin he'd add "Y las caquitas solitas se juntan" and go for a Christian hug (aka el abrazo del chucho, aka The Dog Lean).
+Then in latin he'd add "Y las caquitas solitas se juntan" (Latin for "but you can be my friend instead") and go for a Christian hug (aka el abrazo del chucho, aka The Dog Lean).
 Great man. If only his breath wasn't so bad... then again, he didn't like kissing.
 
 And that's a twofer today.
