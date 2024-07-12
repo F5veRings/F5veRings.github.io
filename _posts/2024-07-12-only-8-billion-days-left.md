@@ -26,7 +26,7 @@ No. If you're lucky, you might have time to utter a quick blessing ("Dear, dear,
 
 Speaking of scatological , let me digress a minute here, since we're all already dead anyway.
 
-Most of you might think I'm talking about the end times, saying I'm prone to wax eschatological. You're sort of half right, thanks to serendipitous convergent etymology. My point is that at the end of everything, once anything is synthesized, assimilated, and digested, be it the Book of Apocalypsis, David Foster Wallace's magnum opus Infinite Jest, or the Oopsie No Poopsie aromatic oil whose packaging you chortled over with your funcle at the Tukwila Mall, but especially Ideas (be it brilliant or dull), is all really the same thing once the shoe hits the floor: shit. That's all the end times are-- our life's work revealed as a little pile that you just hope someone else will stumble upon and carry with them, add to their own and even polish to a shine. Truth be told, oftentimes their own hands are already full. Anyway. Back to my maint point-- the death of today's Arrow.
+Most of you might think I'm talking about the end times, saying I'm prone to wax eschatological. You're sort of half right, thanks to serendipitous convergent etymology. My point is that at the end of everything, once anything is synthesized, assimilated, and digested, be it the Book of Apocalypsis, David Foster Wallace's magnum opus Infinite Jest, or the Oopsie No Poopsie aromatic oil whose packaging you chortled over with your funcle at the Tukwila Mall, but especially Ideas (be it brilliant or dull), is all really the same thing once the shoe hits the floor: shit. That's all the end times are-- our life's work revealed as a little pile that you just hope someone else will stumble upon and carry with, add to their own and even polish to a shine. Truth be told painfully, oftentimes their own hands are already full with other peoples'. Anyway. Back to my maint point-- the death of today's Arrow.
 
 
 
@@ -46,7 +46,7 @@ That actually reminds me of Julius Caesar's last joke. In honor of the end times
 
 
 
-So, Julius Caesar, contrary to all popular belief, was the emperor because he was the most ruthless Truth or Dare player. Anything you asked him to do, he'd do-- that's actually how he started going around naked, pretending he was wearing fancy robes.
+So, Julius Caesar, contrary to all popular belief, was the emperor because he was the most ruthless Truth or Dare player. Anything you asked him to do, he'd do-- that's actually how he started going around naked: someone dared him to eschew clothes forever.
 
 He won literally everyone over with his fearless bravado, always doing the People's will no matter the cost.
 
