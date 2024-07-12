@@ -62,7 +62,7 @@ He then, basically, slices his own throat and proceeds to take a quick trip down
 
 
 
-What's really funny about it though, was that at the end of it all, Brutus lied to the centurions and stated that \*he\* killed Caesar over a dare.
+What's really funny about it though, was that at the end of it all, Brutus lied to the centurions and stated that \*he\* killed Caesar over a dare just to be King for a day.
 
 Caesar still laughs about it and won't let me live it down to this day.
 
